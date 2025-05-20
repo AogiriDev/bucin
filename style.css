@@ -23,15 +23,15 @@ body {
 
 .alert-box {
   background: #fff;
-  padding: 30px;
+  padding: 40px;
   border-radius: 15px;
-  width: 90%;
+  width: 100%;
   max-width: 400px;
   box-shadow: 0 0 20px rgba(255, 255, 255, 0.4);
 }
 
 .amplop-img {
-  width: 300px; /* KECIL */
+  width: 400px; /* KECIL */
   max-width: 80%;
   cursor: pointer;
   transition: all 0.3s ease;
